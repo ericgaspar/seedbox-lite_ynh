@@ -2,8 +2,8 @@
 
 packaging_format = 2
 
-id = "example"
-name = "Example app"
+id = "seedbox-lite"
+name = "Seedbox-Lite"
 description.en = "Lightweight torrent streaming application"
 description.fr = "Application légère de streaming torrent"
 
